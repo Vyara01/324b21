@@ -1,0 +1,12 @@
+body{
+
+	background: url("orphan_black_journal_cover.png");
+	background-position: 15% 15%;
+}
+	/*-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	
+	background-color: #4d0000; 
+	box-shadow: inset 0 0 10px 10px #4d0000;
+}
